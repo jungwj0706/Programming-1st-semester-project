@@ -10,6 +10,7 @@
 
 ## 문제 설명
 
+![문제 이미지](https://github.com/jungwj0706/Programming-1st-semester-project/blob/main/programming-project-question.png)
 
 ---
 
