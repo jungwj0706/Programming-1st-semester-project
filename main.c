@@ -26,6 +26,6 @@ int main() {
         }
     }
 
-    printf("결과: %d\n", rank);  // 출력: 65
+    printf("결과: %d\n", rank); 
     return 0;
 }
