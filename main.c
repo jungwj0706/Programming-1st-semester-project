@@ -27,6 +27,6 @@ int main() {
         }
     }
 
-    printf("결과: %d\n", rank); 
+    printf("결과: %d번쨰\n", rank); 
     return 0;
 }
